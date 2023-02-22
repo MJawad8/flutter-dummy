@@ -992,14 +992,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.1.2"
-  personnummer:
-    dependency: "direct main"
-    description:
-      name: personnummer
-      sha256: "71f77fce0ff0fa8f8949dfe70a52d1342038b03a81d50f9f3274beffb594b1eb"
-      url: "https://pub.dev"
-    source: hosted
-    version: "3.0.2"
   petitparser:
     dependency: transitive
     description:
@@ -1550,5 +1542,5 @@ packages:
     source: hosted
     version: "2.3.0"
 sdks:
-  dart: ">=2.19.0 <3.0.0"
+  dart: ">=2.19.0 <4.0.0"
   flutter: ">=3.3.0"
